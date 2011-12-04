@@ -9,4 +9,4 @@ Installation
 
 Warning
 -------
-Not only will this slow you site down, but the log file it creates will quickly eat up a lot of space in you database. Only run this will debugging an issue and clear the logs afterwards. You hvae been warned.
+Not only will this slow you site down, but the log file it creates will quickly eat up a lot of space in you database. Only run this will debugging an issue and clear the logs afterwards. You have been warned.
