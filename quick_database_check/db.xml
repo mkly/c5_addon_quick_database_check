@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<schema version="0.3">
+	<table name="adodb_logsql">
+		<field name="created" type="T">
+			<notnull />
+		</field>
+		<field name="sql0" type="C" size="250">
+			<notnull />
+		</field>
+		<field name="sql1" type="X2">
+			<notnull />
+		</field>
+		<field name="params" type="X2">
+			<notnull />
+		</field>
+		<field name="tracer" type="X2">
+			<notnull />
+		</field>
+		<field name="timer" type="N" size="16.6">
+			<notnull />
+		</field>
+	</table>
+</schema>
